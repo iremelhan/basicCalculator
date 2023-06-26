@@ -1,0 +1,15 @@
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.deps.json
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.runtimeconfig.json
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.dll
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.pdb
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.csproj.AssemblyReference.cache
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.AssemblyInfoInputs.cache
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.AssemblyInfo.cs
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.csproj.CoreCompileInputs.cache
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.dll
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/refint/basicCalculator.dll
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.pdb
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.genruntimeconfig.cache
+/Users/iremelhan/Projects/basicCalculator/basicCalculator/obj/Debug/net7.0/ref/basicCalculator.dll
